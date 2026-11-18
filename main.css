@@ -193,6 +193,7 @@ footer .fh{font-size:16px;margin-bottom:12px;color:var(--ink)}
 footer .fgh{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--indigo);margin:12px 0 4px}
 footer .fgh:first-child{margin-top:0}
 footer a{color:var(--gray);text-decoration:none;display:block;padding:3px 0}
+footer .footgrid>*{min-width:0}footer a,footer address{overflow-wrap:anywhere}
 footer a:hover{color:var(--indigo);text-decoration:underline}
 footer address{font-style:normal;color:var(--gray)}
 footer .flogo img{display:block;width:230px;height:auto;margin-bottom:12px}
